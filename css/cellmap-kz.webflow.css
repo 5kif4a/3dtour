@@ -1658,7 +1658,6 @@ figcaption {
 
 .footer-down {
   width: 100%;
-  margin-top: 100px;
 }
 
 .link {
@@ -2974,6 +2973,7 @@ figcaption {
   min-width: 0;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px;
   font-family: Inter, sans-serif;
   font-size: 14px;
   font-weight: 700;
