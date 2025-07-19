@@ -3610,6 +3610,17 @@ figcaption {
   #w-node-_6603d099-87ea-d392-449a-caaf2cdb7f91-2cdb7f8e {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
+
+  .policy {
+    width: calc(100% - 40px);
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 13px;
+    line-height: 1.4;
+    white-space: normal;
+    word-wrap: break-word;
+    padding: 12px 16px;
+  }
 }
 
 
